@@ -10,7 +10,7 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
-<div class="image" style="line-height:0px"><pre style="line-height:0px"><a href="#"><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1995: My first PC"
+<a href="#"><img align="left" width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1995: My first PC"
 /><img align="left" width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1996: My first PC"
 /><br/><img align="left" width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1997: My first PC"
 /><img align="left" width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1998: My first PC"
@@ -36,4 +36,4 @@ This is a curated list of the things that have influenced or fascinated me and m
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2018: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2019: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2020: My first PC"
-/></a></pre></div>
+/></a>
