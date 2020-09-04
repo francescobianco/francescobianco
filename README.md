@@ -10,6 +10,7 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
+<details><summary>Click👆</summary>
 <a href="https://git.io/francesco"><img 
 title="Year 1995: My first PC" src="http://www.outframe.com/386SX.jpg" width="10%" /><img 
 title="Year 1996: My first PC" src="http://www.outframe.com/386SX.jpg" width="50%" 
@@ -37,4 +38,4 @@ title="Year 1996: My first PC" src="http://www.outframe.com/386SX.jpg" width="50
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2018: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2019: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2020: My first PC"
-/></a>
+/></a></details>
