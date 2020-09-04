@@ -1,7 +1,6 @@
 ## Hi, I'm Francesco Bianco! ♔
 
-> Software Enginner at <a href="http://www.unb.br">University of Brasilia</a>
-> Developer Consultant at <a href="https://www.thoughtworks.com">Javanile</a>
+> Software Enginner at <a href="https://www.thoughtworks.com">Javanile</a>
 
 [![Linkedin: francescobianco](https://img.shields.io/badge/-francescobianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianco1981/)](https://www.linkedin.com/in/bianco1981/)
 [![Twitter: francescbianco](https://img.shields.io/twitter/follow/francescobianco?style=social)](https://twitter.com/francescobianco)
