@@ -8,7 +8,7 @@
 
 ### A little more about me...
 
-This is a curated list of the things that have influenced and fascinated me and my profession
+This is a curated list of the things that have influenced or fascinated me and my profession
 
 | col 3 is      | right-aligned | $1600 |
 | ------------- | ------------- | ----- |
