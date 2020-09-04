@@ -11,5 +11,5 @@
 This is a curated list of the things that have influenced or fascinated me and my profession
 
 #### Year 1995
-<img style="width:50%" src="http://www.outframe.com/386SX.jpg" />
-<img style="width:50%" src="http://www.outframe.com/386SX.jpg" />
+<img width="50%" src="http://www.outframe.com/386SX.jpg" />
+<img width="50%" src="http://www.outframe.com/386SX.jpg" />
