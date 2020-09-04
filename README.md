@@ -14,8 +14,7 @@ This is a curated list of the things that have influenced or fascinated me and m
 /><img  width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1996: My first PC"
 /><br/><img  width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1997: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1998: My first PC"
-/></a>
-<a><img  width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1999: My first PC"
+/><img  width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 1999: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2000: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2001: My first PC"
 /><img width="50%" src="http://www.outframe.com/386SX.jpg" title="Year 2002: My first PC"
