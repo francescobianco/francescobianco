@@ -12,7 +12,8 @@ This is a curated list of the things that have influenced or fascinated me and m
 
 <a href="https://git.io/francesco"><img 
 title="Year 1995: My first PC" src="pictures/386sx.png" width="10%" /><img 
-title="Year 1995: My first PC" src="" width="10%" /><img 
+title="Year 1995: The game with which I spent the afternoons" src="pictures/keen4.png" width="10%" /><img 
+title="Year 1995: The game with which I spent the afternoons" src="pictures/keen4.png" width="10%" /><img 
 title="Year 1996: My first PC" src="" width="50%" /><img 
 title="Year 1995: My first PC" src="" width="10%" /><img 
 title="Year 1996: My first PC" src="" width="50%" /><img 
@@ -26,5 +27,8 @@ title="Year 1995: My first PC" src="" width="10%" /><img
 title="Year 1996: My first PC" src="" width="50%" /><img 
 title="Year 1995: My first PC" src="" width="10%" /><img 
 title="Year 1996: My first PC" src="" width="50%" /><img 
-title="Year 1996: My first PC" src="" width="50%" /><img 
-title="Year 1997: My first PC" src="" width="50%" /></a>
+title="Year 2016: My first PC" src="pictures/phpstorm.png" width="50%" /><img 
+title="Year 2017: My first PC" src="" width="10%" /><img 
+title="Year 2018: My first PC" src="" width="50%" /><img 
+title="Year 2019: My first PC" src="" width="50%" /><img 
+title="Year 2020: My first PC" src="" width="50%" /></a>
