@@ -31,4 +31,4 @@ title="Year 2016: My first PC" src="pictures/phpstorm.png" width="50%" /><img
 title="Year 2017: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2018: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2019: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></kbd></sub></a>
+title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></sub></kbd></a>
