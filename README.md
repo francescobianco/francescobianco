@@ -27,7 +27,7 @@ title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 2016: My first PC" src="pictures/phpstorm.png" width="50%" /><img 
+title="Year 2016: Switched to PhpStorm" src="pictures/phpstorm.png" width="20%" /><img 
 title="Year 2017: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2018: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2019: My first PC" src="pictures/keen4.png" width="20%" /><img 
