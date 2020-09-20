@@ -10,7 +10,7 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
-<div style="line-height:0;" class="lh-0"><a href="https://git.io/francesco"><bdo><img 
+<div><a href="https://git.io/francesco"><kbd><img 
 title="Year 1995: My first PC" src="pictures/386sx.png" width="20%" /><img 
 title="Year 1995: The game with which I spent the afternoons" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: The game with which I spent the afternoons" src="pictures/keen4.png" width="20%" /><img 
@@ -31,4 +31,4 @@ title="Year 2016: My first PC" src="pictures/phpstorm.png" width="50%" /><img
 title="Year 2017: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2018: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2019: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></bdo></a></div>
+title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></kbd></a></div>
