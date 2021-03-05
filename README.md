@@ -12,12 +12,15 @@
 This is a curated list of the things that have influenced or fascinated me and my profession
 
 <div><a href="#noclick"><img 
-src="pics/row1/1_386sx.png" width="14%" title="Year 1995: My first PC" /><img 
-src="pics/row1/2_keen4.png" width="21%" title="Year 1995: The game with which I spent the afternoons" /><img 
-src="pics/row1/3_keen4.png" width="21%" title="Year 1995: The game with which I spent the afternoons" /><img 
-src="pics/row1/4_keen4.png" width="21%" title="Year 1996: My first PC" /><img 
-src="pics/row1/5_keen4.png" width="21%" title="Year 1995: My first PC" /><img 
-title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
+src="pics/row1/1.png" width="12.5%" title="Year 1995: My first PC" /><img
+src="pics/row1/2_keen4.png" width="12.5%" title="Year 1995: The game with which I spent the afternoons" /><img
+src="pics/row1/3_keen4.png" width="12.5%" title="Year 1995: The game with which I spent the afternoons" /><img
+src="pics/row1/4_keen4.png" width="12.5%" title="Year 1996: My first PC" /><img
+src="pics/row1/5_keen4.png" width="12.5%" title="Year 1995: My first PC" /><img
+src="pics/row1/6_keen4.png" width="12.5%" title="Year 1996: My first PC" /><img
+src="pics/row1/7_keen4.png" width="12.5%" title="Year 1995: My first PC" /><img
+src="pics/row1/8_keen4.png" width="12.5%" title="Year 1995: My first PC" /><img
+title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
