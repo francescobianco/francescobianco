@@ -1,4 +1,4 @@
-## Hi, I'm Francesco Bianco! ♔
+## Hi, I'm Francesco Bianco 🍃
 
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
 > Solution Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>
