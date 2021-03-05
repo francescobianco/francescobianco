@@ -18,7 +18,7 @@ title="Year 1995: The game with which I spent the afternoons" src="pictures/keen
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
+title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /></kbd><kbd><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
