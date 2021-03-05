@@ -11,14 +11,15 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
-<div><a href="https://git.io/francesco"><kbd><img 
+<div><a href="https://git.io/francesco"><img 
 title="Year 1995: My first PC" src="pictures/386sx.jpg" width="20%" /><img 
 title="Year 1995: The game with which I spent the afternoons" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: The game with which I spent the afternoons" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /></kbd><kbd><img 
+title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" />
+  <kbd><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
