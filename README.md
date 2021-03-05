@@ -11,15 +11,15 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
-<div><a href="#noclick"><img 
+<div><kbd><a href="#noclick"><img 
 src="pics/row1/1.png" width="12.5%" title="Year 1995: My first PC" /><img
-src="pics/row1/2_keen4.png" width="12.5%" title="Year 1995: The game with which I spent the afternoons" /><img
-src="pics/row1/3_keen4.png" width="12.5%" title="Year 1995: The game with which I spent the afternoons" /><img
-src="pics/row1/4_keen4.png" width="12.5%" title="Year 1996: My first PC" /><img
-src="pics/row1/5_keen4.png" width="12.5%" title="Year 1995: My first PC" /><img
-src="pics/row1/6_keen4.png" width="12.5%" title="Year 1996: My first PC" /><img
-src="pics/row1/7_keen4.png" width="12.5%" title="Year 1995: My first PC" /><img
-src="pics/row1/8_keen4.png" width="12.5%" title="Year 1995: My first PC" /><img
+src="pics/row1/2.png" width="12.5%" title="Year 1995: The game with which I spent the afternoons" /><img
+src="pics/row1/3.png" width="12.5%" title="Year 1995: The game with which I spent the afternoons" /><img
+src="pics/row1/4.png" width="12.5%" title="Year 1996: My first PC" /><img
+src="pics/row1/5.png" width="12.5%" title="Year 1995: My first PC" /><img
+src="pics/row1/6.png" width="12.5%" title="Year 1996: My first PC" /><img
+src="pics/row1/7.png" width="12.5%" title="Year 1995: My first PC" /><img
+src="pics/row1/8.png" width="12.5%" title="Year 1995: My first PC" /><img
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img
 title="Year 1995: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 1996: My first PC" src="pictures/keen4.png" width="20%" /><img 
@@ -35,4 +35,4 @@ title="Year 2016: Switched to PhpStorm" src="pictures/phpstorm.png" width="20%" 
 title="Year 2017: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2018: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2019: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></a></div>
+title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></a></kbd></div>
