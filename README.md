@@ -56,4 +56,4 @@ src="pics/row1/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src
 src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.1%" /></a></kbd></div>
+src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.1%" />Test</a></kbd></div>
