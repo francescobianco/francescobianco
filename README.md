@@ -12,7 +12,7 @@
 This is a curated list of the things that have influenced or fascinated me and my profession
 
 <div><kbd><a href="#noclick"><img 
-src="pics/row1/1.png" width="12.2375%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.3%" /><img
+src="pics/row1/1a.png" width="12.2375%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.3%" /><img
 src="pics/row1/2.png" width="12.2375%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.3%" /><img
 src="pics/row1/3.png" width="12.2375%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.3%" /><img
 src="pics/row1/4.png" width="12.2375%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.3%" /><img
