@@ -11,7 +11,7 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
-<div><kbd><a href="#noclick"><img 
+<div><kbd><kbd><a href="#noclick"><img 
 src="pics/row1/1a.png" width="16.25%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.5%" /><img
 src="pics/row1/2.png" width="16.25%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.5%" /><img
 src="pics/row1/3.png" width="16.25%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.5%" /><img
@@ -43,4 +43,4 @@ title="Year 2016: Switched to PhpStorm" src="pictures/phpstorm.png" width="20%" 
 title="Year 2017: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2018: My first PC" src="pictures/keen4.png" width="20%" /><img 
 title="Year 2019: My first PC" src="pictures/keen4.png" width="20%" /><img 
-title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></a></kbd></div>
+title="Year 2020: My first PC" src="pictures/keen4.png" width="20%" /></a></kbd></kbd></div>
