@@ -11,7 +11,8 @@
 
 This is a curated list of the things that have influenced or fascinated me and my profession
 
-<div><kbd><a href="#noclick"><img src="pics/blank.png" width="0.4%" height="69" /><img 
+<div><kbd><a href="#noclick"><img 
+src="pics/blank.png" width="0.4%" height="69" /><img 
 src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
@@ -19,7 +20,26 @@ src="pics/row1/4.png" width="12.2327%" title="Year 1995: My first PC" /><img src
 src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img 
+src="pics/blank.png" width="0.4%" height="69" /><img
+src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img 
+src="pics/blank.png" width="0.4%" height="69" /><img
+src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img 
+src="pics/blank.png" width="0.4%" height="69" /><img
 src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
@@ -28,22 +48,7 @@ src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src
 src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/blank.png" width="0.4%" height="69" /><img
 src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
