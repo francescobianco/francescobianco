@@ -22,7 +22,7 @@ src="pics/row1/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src
 src="pics/row1/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.1%" /><img 
 src="pics/blank.png" width="0.3%" /><img
-src="pics/row1/1b.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row1/1b.png" width="12.2327%" title="Year 1995 - My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row1/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
@@ -33,10 +33,10 @@ src="pics/row1/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src
 src="pics/blank.png" width="0.3%" /><img
 src="pics/row3/1.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row3/2.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row3/3.png" width="12.2327%" title="Year 1995: The game with which I spent the afternoons" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row3/3.png" width="12.2327%" title="Year 2007 - My degree thesis: JADE - Java Agent Development Framework" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row3/4.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row3/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
-src="pics/row3/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row3/5.png" width="12.2327%" title="Year 2008 - My first agency job: Joomla web site" /><img src="pics/blank.png" width="0.2375%" /><img
+src="pics/row3/6.png" width="12.2327%" title="Year 2009 - My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row3/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row3/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.1%" /><img 
 src="pics/blank.png" width="0.3%" /><img
