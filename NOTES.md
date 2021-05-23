@@ -1,5 +1,0 @@
-# Notes
-
-This pages 
-
-#fafbfc

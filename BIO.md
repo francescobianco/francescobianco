@@ -1,4 +1,4 @@
-# Biography
+# Bio
 
 
 ## Year 1981 (Born)
