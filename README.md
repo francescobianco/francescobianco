@@ -1,7 +1,7 @@
 ## Hi, I'm Francesco Bianco 🍃
 
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
-> Solution Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>
+> Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>
 
 [![Linkedin: francescobianco](https://img.shields.io/badge/-Francesco%20Bianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yafb/)](https://www.linkedin.com/in/yafb/)
 [![Twitter: francescbianco](https://img.shields.io/twitter/follow/francescobianco?style=social)](https://twitter.com/francescobianco)
