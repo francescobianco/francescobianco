@@ -9,8 +9,7 @@
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
 > Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>
 
-[![Linkedin: francescobianco](https://img.shields.io/badge/-Francesco%20Bianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yafb/)](https://www.linkedin.com/in/yafb/)
-[![GitHub francescobianco](https://img.shields.io/github/followers/francescobianco?label=follow&style=social)](https://github.com/francescobianco)
+[![Linkedin: francescobianco](https://img.shields.io/badge/-Francesco%20Bianco-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yafb/)](https://www.linkedin.com/in/yafb/)
 
 <details>
   <summary>
