@@ -14,7 +14,7 @@
 
 <details>
   <summary>
-    <h3>Discover more about me</h3>
+    <strong>Discover more about me</strong>
   </summary>
 
 This is a carefully curated list of items that have had a significant impact on me and my professional journey. These are things that have fascinated me, inspired me, and shaped my thinking in meaningful ways.
