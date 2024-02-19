@@ -12,7 +12,10 @@
 [![Linkedin: francescobianco](https://img.shields.io/badge/-Francesco%20Bianco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yafb/)](https://www.linkedin.com/in/yafb/)
 [![GitHub francescobianco](https://img.shields.io/github/followers/francescobianco?label=follow&style=social)](https://github.com/francescobianco)
 
-### A little more about me
+<details>
+  <summary>
+    <h3>Discover more about me</h3>
+  </summary>
 
 This is a carefully curated list of items that have had a significant impact on me and my professional journey. These are things that have fascinated me, inspired me, and shaped my thinking in meaningful ways.
 
@@ -62,3 +65,10 @@ src="pics/row5/5.png" width="12.2327%" title="Year 1995: My first PC" /><img src
 src="pics/row5/6.png" width="12.2327%" title="Year 1996: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row5/7.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.2375%" /><img
 src="pics/row5/8.png" width="12.2327%" title="Year 1995: My first PC" /><img src="pics/blank.png" width="0.1%" /></a></kbd></div>
+
+
+
+</details>
+
+
+
