@@ -1,3 +1,9 @@
+<div align="left">
+
+<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h192.gif" />
+
+</div>
+
 ## Hi, I'm Francesco Bianco 👾
 
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
