@@ -9,6 +9,9 @@
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
 > Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>
 
+Stay connected with me on social media!
+
+[![YouTube: francescobianco](https://img.shields.io/badge/-@yafb-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@yafb)](https://www.youtube.com/@yafb)
 [![Linkedin: francescobianco](https://img.shields.io/badge/-Francesco%20Bianco-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yafb/)](https://www.linkedin.com/in/yafb/)
 
 <details>
