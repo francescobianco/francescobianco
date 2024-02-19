@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h192.gif" />
+<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h192.gif?v=1" />
 
 </div>
 
