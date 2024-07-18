@@ -7,7 +7,7 @@
 ## Hi, I'm Francesco Bianco 👾
 
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
-> Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>
+> Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>  
 > Digital Content Director at <a href="https://hardcode.blog">HARDCODE.BLOG</a>
 
 Stay connected with me on social media!
