@@ -1,7 +1,7 @@
 
 ## Hi, I'm Francesco Bianco 👾
 
-<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h256.gif?v=1" align="right" />
+<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h150.gif?v=1" align="right" />
 
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
 > Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>  
