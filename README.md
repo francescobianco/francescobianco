@@ -1,10 +1,7 @@
-<div align="left">
-
-<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h192.gif?v=1" />
-
-</div>
 
 ## Hi, I'm Francesco Bianco 👾
+
+<img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h192.gif?v=1" align="right" />
 
 > Software Enginner at <a href="https://www.javanile.org">Javanile</a>  
 > Solutions Architect at <a href="https://www.opencrmitalia.com">Opencrmitalia</a>  
@@ -14,6 +11,13 @@ Stay connected with me on social media!
 
 [![YouTube: francescobianco](https://img.shields.io/badge/-@yafb-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@yafb)](https://www.youtube.com/@yafb)
 [![Linkedin: francescobianco](https://img.shields.io/badge/-Francesco%20Bianco-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yafb/)](https://www.linkedin.com/in/yafb/)
+
+If you ❤️ open source, consider becoming my sponsor on GitHub. Your small 💸 contribution will help me continue developing open-source software like 🌟
+[Mush](https://github.com/javanile/mush),
+[Yamlinc](https://github.com/javanile/yamlinc),
+[Vtiger](https://github.com/javanile/vtiger), etc...
+
+[![GitHub: francescobianco](https://img.shields.io/badge/-Sponsor_me_on_GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=white&link=https://www.youtube.com/@yafb)](https://github.com/sponsors/francescobianco)
 
 <details>
   <summary>
